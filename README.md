@@ -127,11 +127,11 @@ Example comparison:
 
 | Actual Charges | Predicted Charges |
 |---:|---:|
-| ADD VALUE | ADD VALUE |
-| ADD VALUE | ADD VALUE |
-| ADD VALUE | ADD VALUE |
-| ADD VALUE | ADD VALUE |
-| ADD VALUE | ADD VALUE |
+| 9095.06825 | 8969.550274 |
+| 5272.17580 | 7068.747443 |
+| 29330.98315 | 36858.410912 |
+| 9301.89355 | 9454.678501 |
+| 33750.29180 | 26973.173457 |
 
 ---
 
