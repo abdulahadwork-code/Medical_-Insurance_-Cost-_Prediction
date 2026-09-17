@@ -110,10 +110,10 @@ The model was evaluated using:
 
 | Metric | Result |
 |---|---:|
-| MAE | ADD YOUR VALUE |
-| MSE | ADD YOUR VALUE |
-| RMSE | ADD YOUR VALUE |
-| R² Score | ADD YOUR VALUE |
+| MAE | 4181.194473753643 |
+| MSE | 33596915.85136137 |
+| RMSE | 5796.284659276265 |
+| R² Score | 0.7835929767120728 |
 
 These values were calculated using the unseen testing dataset.
 
